@@ -1,7 +1,6 @@
 [book]
 authors = ["RustCrypto Organization"]
 language = "en"
-multilingual = false
 title = "The RustCrypto Book"
 description = "Reference manual for the RustCrypto project"
 
